@@ -1,6 +1,5 @@
 ### HerSaathi
-
-# AI-Powered Women's Rights, Safety & Support Navigator
+ AI-Powered Women's Rights, Safety & Support Navigator
 
 > Helping women understand their rights, navigate challenges, and discover reliable support — with accessible, responsible AI.
 ---
